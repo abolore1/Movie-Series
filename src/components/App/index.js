@@ -1,6 +1,6 @@
 import React,{ Component } from 'react';
 import Main from '../Main';
-import 'whatwg-fetch';
+// import 'whatwg-fetch';
 
 
 class App extends Component {
